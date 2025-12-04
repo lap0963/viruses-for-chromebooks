@@ -1,8 +1,14 @@
-# viruses-for-chromebooks
-you can use anything here but if its for commercial use than give me credit
+⚠️ Disclaimer
 
-# IF YOU WANT TO USE IT FOLLOW THESE STEPS 
+This project is provided as‑is for educational and non‑malicious use only.
+I am not responsible for any damage, data loss, misuse, or harm caused by third‑party files, user modifications, or anything not included in this repository.
 
-1. download the file
-2. open the file
-3. click on the link but be careful it will RUN
+By using this project, the user agrees that:
+
+They use it at their own risk
+
+They are responsible for following all laws, rules, and guidelines
+
+I do not provide or endorse any harmful or malicious files
+
+If you encounter anything suspicious, do not run it.
